@@ -16,7 +16,7 @@
 
 <section class="contacto">
     <h3>Contacto</h3>
-    <p>Escríbenos a: contacto@miempresa.com</p>
+    <p>Escríbenos a: con los dedos de la manos</p>
 </section>
 
 <?php get_footer(); ?>
