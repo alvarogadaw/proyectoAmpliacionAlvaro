@@ -1,0 +1,15 @@
+/*
+Theme Name: Mi Tema Corporativo
+Theme URI: https://github.com/alvarogadaw/wp-landing-page
+Author: Tu Nombre
+Author URI: https://tusitio.com
+Description: Tema personalizado para la página principal corporativa.
+Version: 1.0
+License: GNU General Public License v2 or later
+Text Domain: mi-tema-corporativo
+*/
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
