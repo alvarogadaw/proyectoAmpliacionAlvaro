@@ -11,7 +11,7 @@
 
 <section class="contacto">
     <h3>Contacto</h3>
-    <p>Escríbenos a: con los dedos de la manos</p>
+    <p>Escríbenos a: con los dedos de la manos 234</p>
 </section>
 
 <?php get_footer(); ?>
