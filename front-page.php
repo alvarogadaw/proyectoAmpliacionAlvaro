@@ -6,7 +6,7 @@
 </section>
 
 <section class="servicios">
-    <h3>si</h3>  
+    <h3>:S</h3>  
 </section>
 
 <section class="contacto">
