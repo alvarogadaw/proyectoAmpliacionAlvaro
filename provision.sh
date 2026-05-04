@@ -2,7 +2,7 @@
 set -e
 
 # Variables
-REPO_URL="https://github.com/alvarogadaw/wp-landing-page.git"
+REPO_URL="https://github.com/alvarogadaw/proyectoAlvaro.git"
 REPO_DIR="/home/vagrant/wp-landing-page"
 PROJECT_DIR="/home/vagrant/proyecto"
 WORDPRESS_CONTENT_DIR="/home/vagrant/wordpress-content"
