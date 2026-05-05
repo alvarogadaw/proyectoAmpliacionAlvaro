@@ -1,12 +1,12 @@
 <?php get_header(); ?>
 
-<section class="hero">
+<section class="titulo">
     <h2>Página alvaro</h2>
     <p>Holaaa</p>
 </section>
 
 <section class="servicios">
-    <h3>si</h3>  
+    <h3>editado</h3>  
 </section>
 
 <?php get_footer(); ?>
