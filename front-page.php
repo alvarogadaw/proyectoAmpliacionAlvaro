@@ -2,7 +2,7 @@
 
 <section class="titulo">
     <h2>Página alvaro</h2>
-    <p>Holaaa</p>
+    <p>Holaa</p>
 </section>
 
 <section class="servicios">
