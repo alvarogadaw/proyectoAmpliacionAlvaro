@@ -9,9 +9,4 @@
     <h3>si</h3>  
 </section>
 
-<section class="contacto">
-    <h3>Contacto</h3>
-    <p>Escríbenos a: con los dedos de la manos 234</p>
-</section>
-
 <?php get_footer(); ?>
